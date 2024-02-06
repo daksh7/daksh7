@@ -1,16 +1,21 @@
-### Hi there 👋
+## 🌟 Welcome to My GitHub Profile! 🚀
 
-<!--
-**daksh7/daksh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there, I'm Daksh a data enthusiast with a passion for transforming insights into action! 📊✨
 
-Here are some ideas to get you started:
+### 📚 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've journeyed from the realms of sales and digital marketing to the fascinating world of data analytics. Armed with a Post-Bachelor Diploma in Marketing and Data Analytics from Okanagan College, I'm on a mission to leverage data to unlock valuable business insights and drive informed decision-making processes.
+
+### 🛠️ Technologies
+
+🌟 **Technologies:** R/RStudio, Python, PowerBI, SQL, Microsoft Office (Outlook, Word, Excel, PowerPoint)
+
+### 🤝 Let's Connect!
+
+🌐 **LinkedIn:** Let's connect on [LinkedIn](https://www.linkedin.com/in/dakshsethi/) and explore potential collaborations or job opportunities.
+
+📧 **Email:** Have a question or want to chat? Drop me an email at dakshsethi07@gmail.com.
+
+### 🌟 Thank You for Visiting!
+
+Thanks for stopping by! Feel free to explore my repositories, leave a star ⭐ if you find something interesting, and let's collaborate on exciting data projects together!
